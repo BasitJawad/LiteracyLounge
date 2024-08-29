@@ -16,10 +16,9 @@ To get started with this repository and work effectively, follow these steps:
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat-square&logo=react&color=FF69B4" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat-square&logo=tailwindcss&color=9400D3" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Code-GSAP-informational?style=flat-square&logo=greensock&color=FF28B3" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Beauty-TailwindCSS-informational?style=flat-square&logo=tailwindcss&color=9400D3" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Animations-GSAP-informational?style=flat-square&logo=greensock&color=FF28B3" alt="GSAP"/>
   <img src="https://img.shields.io/badge/Backend-NodeJS-informational?style=flat-square&logo=node.js&color=CC283B" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat-square&logo=express.js&color=4682B4" alt="ExpressJS"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&color=47A248" alt="MongoDB"/>
